@@ -1,0 +1,27 @@
+News API link: https://newsapi.org/
+
+User Story:
+    As a user, I would like to see various news sources on the homepage of the application.
+    As a user, I would also want to select a news source and see all news articles from the selected news source in the application.
+    As a user, I would want to see the image, description and the time a news article was created.
+    As a user, I would want to click on an article and read the full article on the source website.
+
+Project Objectives:
+    Your project should contain two models, one for the news source and one for the news article.
+    Your project must use views and routes.
+    Your project should consume the News API.
+    Your project must contain request(s) to the News API.
+    Your project should follow the proper folder structure.
+    Your application should be deployed to Heroku.
+
+Technical Requirements:
+    The project should have a specs markdown file that displays the project's specifications.
+    The model classes should have unittests to check for behaviour. The tests should pass.
+    The project needs to be deployed to Heroku.
+    The project should have clear commit messages.
+    The project should be polished in a portfolio-quality state.
+
+Further Exploration:
+    You can add a search functionality to your application that searches for articles according to the source name.
+    Learn how to use flask sessions and allow users not to lose the news article snippet on relaunch of the applications
+    Create a favourite sources section where a user can add their favourite news sources and store them in a browser cookie.
